@@ -1,1 +1,0 @@
-# novaskin-rfm-customer-segmentation
